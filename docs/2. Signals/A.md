@@ -26,4 +26,5 @@ As an example, consider the two lines below.
 They both contain the same information; one can be communicated much more efficiently that the other. The first will compress well, the second will not. If you are interested in this, do some background reading on LZW compression [2].  
 
 [1] Shannon, C.E., 2001. A mathematical theory of communication. ACM SIGMOBILE mobile computing and communications review, 5(1), pp.3-55.
+
 [2] Welch, T.A., 1984. A technique for high-performance data compression. Computer, 17(06), pp.8-19.
